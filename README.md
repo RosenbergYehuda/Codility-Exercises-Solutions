@@ -23,7 +23,7 @@
   <p align="center">
     Solutions for Codility Exercises problems written in cpp.
     <br />
-    All of the solutions were submitted and score 100.
+    All of the solutions were submitted and scored 100.
     <br />
     .
     <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions"><strong>Explore the docs »</strong></a>
