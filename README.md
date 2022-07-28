@@ -1,6 +1,3 @@
-# Codility-solutions
-Solutions for Codility Exercises problems written in cpp
-
 
 <div id="top"></div>
 
@@ -17,23 +14,24 @@ Solutions for Codility Exercises problems written in cpp
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-templatecodility logo
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+<a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions">
+    <img src="images/logo.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">FlightGear GCS Interpreter</h3>
+  <h3 align="center">Codility-Exercises-Solutions</h3>
 
   <p align="center">
-    An Ground Control Stations interpreter for the FlightGear simulator.
+    Solutions for Codility Exercises problems written in cpp.
     <br />
-    <a href="https://github.com/RosenbergYehuda/FlightGear-GCS-Interpeter"><strong>Explore the docs »</strong></a>
+    All of the solutions were submitted and score 100.
     <br />
+    .
+    <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://drive.google.com/file/d/19OLkWLgJxciY2vlvI5wWtiRhx2_WKOKG/view?usp=sharing">View Demo</a>
     ·
-    <a href="https://github.com/RosenbergYehuda/FlightGear-GCS-Interpeter/issues">Report Bug</a>
+    <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions">Report Bug</a>
     ·
-    <a href="https://github.com/RosenbergYehuda/FlightGear-GCS-Interpeter/issues">Request Feature</a>
+    <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/issues">Request Feature</a>
   </p>
 </div>
 
@@ -45,94 +43,65 @@ templatecodility logo
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#algorithmic-skills">Algorithmic skills</a>
       <ul>
-        <li><a href="#design-and-architecture">Design And Architecture</a></li>
       </ul>
     </li>
     </li>
-        <li><a href="#installation">Installation</a></li>
+     <li><a href="#bitwise-operations">Bitwise operations </a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#flow-chart">Flow chart</a></li>
+    <li><a href="#coding-skills">Coding skills</a></li>
+    <li><a href="#data-structures">Data Structures</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#see-also">See also</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Algorithmic skills -->
+## Algorithmic skills
 
-This project is a Ground Control Stations interpreter for the FlightGear simulator.
-The commands to control the drone are given in a text file, the interpeter reads and executes the commands.
-The task is to make the drone take off and stable itself in the air automatically.
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/firstUnique.cpp">firstUnique</a>
+
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/strSymmetryPoint.cpp">strSymmetryPoint</a>
+
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/treeHeight.cpp">treeHeight</a>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- Bitwise operations (bit-ops) -->
+## Bitwise operations
+
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Bitwise%20operations%20(bit-ops)/binaryGap.cpp">binaryGap</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### Design And Architecture
 
-The Design and Architecture of the project are as follows:
+<!-- Coding skills -->
+## Coding skills 
 
-* Object-oriented programming
-
-* Command Pattern
-
-* Date access with O(1) time complexity  
-
-* Threading
-
-* Singeltone
-
-* Polymorphism
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/parityDegree.cpp">parityDegree</a>
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Installation
-- Clone the repo from 
-`https://github.com/RosenbergYehuda/FlightGear-GCS-Interpeter.git`.
-- Download the simulator from [FlightGear.org](http://home.flightgear.org/).
-- Copy the generic_small file from the repository and paste it in the protocol folder at the location of the FlightGear files on your system. for example: /usr/share/games/flightgear/Protocol.
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/parkBill.cpp">parkBill</a>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-- Open your terminal and navigate to the cloned repository. then run `make`
-- run `./output`
-- Lean back and chill while the drone will take off and stable itself in the air automatically.
+<!-- Data Structures -->
+## Data Structures
+
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Data%20Structures/arrListLen.cpp">arrListLen</a>
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- FLOW CHART -->
-## Flow chart
-``` mermaid
-
-graph TD;
-    A[text file] --> B{Lexer};
-    B --> C[CommandMap];
-    B --> D[SymbolPathMap];
-    C --> E[Command];
-    E --> F[client];
-    E --> G[Server];
-    H[Drone] --> G;
-    G --> I[(PathValueMap)];
-    F --> H;
-    
- ```
-    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -150,11 +119,10 @@ Yehuda Z Rosenberg
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -164,35 +132,24 @@ Yehuda Rosenberg
 
 yehudazevr@gmail.com
 
-Project Link: https://github.com/RosenbergYehuda/FlightGear-GCS-Interpeter
+Project Link: https://github.com/RosenbergYehuda/Codility-Exercises-Solutions
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- See also -->
-## See also
-
-https://wiki.flightgear.org/Main_Page
-
-https://www.youtube.com/results?search_query=flightgear
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/RosenbergYehuda/FlightGear-GCS-Interpeter.svg?style=for-the-badge
-[contributors-url]: https://github.com/RosenbergYehuda/FlightGear-GCS-Interpeter/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/RosenbergYehuda/FlightGear-GCS-Interpeter.svg?style=for-the-badge
-[forks-url]: https://github.com/RosenbergYehuda/FlightGear-GCS-Interpeter/network/members
-[stars-shield]: https://img.shields.io/github/stars/RosenbergYehuda/FlightGear-GCS-Interpeter.svg?style=for-the-badge
-[stars-url]: https://github.com/RosenbergYehuda/FlightGear-GCS-Interpeter/stargazers
-[issues-shield]: https://img.shields.io/github/issues/RosenbergYehuda/FlightGear-GCS-Interpeter.svg?style=for-the-badge
-[issues-url]: https://github.com/RosenbergYehuda/FlightGear-GCS-Interpeter/issues
-[license-shield]: https://img.shields.io/github/license/RosenbergYehuda/FlightGear-GCS-Interpeter.svg?style=for-the-badge
-[license-url]: https://github.com/RosenbergYehuda/FlightGear-GCS-Interpeter/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/RosenbergYehuda/Codility-Exercises-Solutions.svg?style=for-the-badge
+[contributors-url]: https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RosenbergYehuda/Codility-Exercises-Solutions.svg?style=for-the-badge
+[forks-url]: https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/network/members
+[stars-shield]: https://img.shields.io/github/stars/RosenbergYehuda/Codility-Exercises-Solutions.svg?style=for-the-badge
+[stars-url]: https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RosenbergYehuda/Codility-Exercises-Solutions.svg?style=for-the-badge
+[issues-url]: https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/issues
+[license-shield]: https://img.shields.io/github/license/RosenbergYehuda/Codility-Exercises-Solutions.svg?style=for-the-badge
+[license-url]: https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/yehuda-rosenberg-38835243 
