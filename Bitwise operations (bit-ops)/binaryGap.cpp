@@ -24,14 +24,13 @@ int gap(int N)
     {
         if (binaryN[i] == '1')
         {
-            // change the state from 0 to 1 and vice versa using XOR operator
-            counting ^= 1;
+            counting = 1;
         }
         if (counting == 1)
         {
             counter++;
         }
-        if (counting == 0) // maybe end of segment
+        if (binaryN[i] == '1') // maybe end of segment
         {
             currentMax = max(counter, currentMax);
             counter = -1;
@@ -77,7 +76,7 @@ int gap2(int N)
 
 int main()
 {
-    cout << gap(458873) << endl;
-    cout << gap2(458873) << endl;
+    cout << gap(328) << endl;
+    cout << gap2(328) << endl;
     return 0;
 };
