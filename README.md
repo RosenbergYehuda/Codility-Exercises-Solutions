@@ -79,7 +79,9 @@
 <!-- Bitwise operations (bit-ops) -->
 ## Bitwise operations
 
-- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Bitwise%20operations%20(bit-ops)/binaryGap.cpp">binaryGap</a>
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Bitwise%20operations%20(bit-ops)/binaryGap.cpp">binaryGap.cpp</a>
+
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Bitwise%20operations%20(bit-ops)/binary-gap.py">binary_gap.py</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
