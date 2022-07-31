@@ -21,7 +21,9 @@
   <h3 align="center">Codility-Exercises-Solutions</h3>
 
   <p align="center">
-    Solutions for Codility Exercises problems written in cpp.
+    Solutions for Codility Exercises problems written in CPP and Python.
+    <br />
+     Note that the solutions differ from each other not only by the language, but by the algorithm as well.
     <br />
     All of the solutions were submitted and scored 100.
     <br />
