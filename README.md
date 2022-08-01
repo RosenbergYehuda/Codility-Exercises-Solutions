@@ -23,7 +23,7 @@
   <p align="center">
     Solutions for Codility Exercises problems written in CPP and Python.
     <br />
-     Note that the solutions differ from each other not only by the language, but by the algorithm as well.
+     Note that most of the solutions differ from each other not only by the language, but by the algorithm as well.
     <br />
     All of the solutions were submitted and scored 100.
     <br />
@@ -66,7 +66,9 @@
 <!-- Algorithmic skills -->
 ## Algorithmic skills
 
-- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/firstUnique.cpp">firstUnique</a>
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/firstUnique.cpp">firstUnique.cpp</a>
+
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/first_unique.py">first_unique.py</a>
 
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/strSymmetryPoint.cpp">strSymmetryPoint</a>
 
