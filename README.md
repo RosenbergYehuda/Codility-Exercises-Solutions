@@ -70,7 +70,9 @@
 
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/first_unique.py">first_unique.py</a>
 
-- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/strSymmetryPoint.cpp">strSymmetryPoint</a>
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/strSymmetryPoint.cpp">strSymmetryPoint.cpp</a>
+
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/str_symmetry_point.py">str_symmetry_point.py</a>
 
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/treeHeight.cpp">treeHeight</a>
 
