@@ -16,7 +16,7 @@ int firstUmique(vector<int> &A)
     }
     else
     {
-      // if it already appears in the array, give it a uniqe count
+      // if it already appears in the array, give it a unique count
       umap[A[i]] = 5;
     }
   }
