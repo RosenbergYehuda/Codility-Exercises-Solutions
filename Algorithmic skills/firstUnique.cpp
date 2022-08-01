@@ -6,6 +6,7 @@ using namespace std;
 
 int firstUmique(vector<int> &A)
 {
+  // mapping the values and there appearance
   unordered_map<int, int> umap;
   for (int i = 0; i < A.size(); i++)
   {
@@ -15,10 +16,11 @@ int firstUmique(vector<int> &A)
     }
     else
     {
+      // if it already appears in the array, give it a uniqe count
       umap[A[i]] = 5;
     }
   }
-
+  // return the first element with that aappears only once
   for (int i = 0; i < A.size(); i++)
   {
     if (umap[A[i]] == 1)
