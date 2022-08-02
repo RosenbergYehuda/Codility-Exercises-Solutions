@@ -1,3 +1,5 @@
+# The problem: https://app.codility.com/programmers/trainings/9/binary_gap/
+
 def binary_gap(N):
     # convert to binary
     binar = bin(N)[2:].zfill(8)
