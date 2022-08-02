@@ -30,11 +30,11 @@ int treeHeight(tree* T)
 		return -1;
 	else
 	{
-		// compute the depth of the subtree 
+		// compute the depth of the subtrees
 		int lDepth = treeHeight(T->l);
 		int rDepth = treeHeight(T->r);
 	
-		// use the larger one 
+		// return the larger one 
 		if (lDepth > rDepth)
 			return(lDepth + 1);
 		else return(rDepth + 1);
