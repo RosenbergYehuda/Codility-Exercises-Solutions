@@ -99,7 +99,10 @@
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/parityDegree.cpp">parityDegree</a>
 
 
-- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/parkBill.cpp">parkBill</a>
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/parkBill.cpp">parkBill.cpp</a>
+
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/park_bill.py">park_bill.py</a>
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
