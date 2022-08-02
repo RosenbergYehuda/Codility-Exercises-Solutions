@@ -3,19 +3,17 @@ import math
 
 
 def parking_sum(E, L):
-    if E != L:
-        # copy the times without the colon.
-        midlen = len(L) // 2
-        newE, newL = E[:midlen] + E[midlen+1:], L[:midlen] + L[midlen+1:]
-        # calculate the time
-        total_hours = (int(newL) - int(newE)) / 100
-        # round opwards
-        round_total = math.ceil(total_hours)
-
-        finel = 2 + 3 + (round_total-1) * 4
-        return finel
-    return 0
+    # copy the times without the colon.
+    midlen = len(L) // 2
+    newE, newL = E[:midlen] + E[midlen+1:], L[:midlen] + L[midlen+1:]
+    # calculate the time
+    total_hours = (int(newL) - int(newE)) / 100
+    # round opwards
+    round_total = math.ceil(total_hours)
+    # elegant way to calculate the bill
+    finel = round_total * 4 + 1
+    return finel
 
 
 if __name__ == '__main__':
-    print(parking_sum("10:30", "10:38"))
+    print(parking_sum("10:00", "13:38"))
