@@ -8,7 +8,7 @@ def parking_sum(E, L):
     newE, newL = E[:midlen] + E[midlen+1:], L[:midlen] + L[midlen+1:]
     # calculate the time
     total_hours = (int(newL) - int(newE)) / 100
-    # round opwards
+    # round upwards
     round_total = math.ceil(total_hours)
     # elegant way to calculate the bill
     finel = round_total * 4 + 1
