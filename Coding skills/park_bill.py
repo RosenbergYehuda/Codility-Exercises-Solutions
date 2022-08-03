@@ -4,8 +4,7 @@ import math
 
 def parking_sum(E, L):
     # copy the times without the colon.
-    midlen = len(L) // 2
-    newE, newL = E[:midlen] + E[midlen+1:], L[:midlen] + L[midlen+1:]
+    newE, newL = E[:2] + E[3:], L[:2] + L[3:]
     # calculate the time
     total_hours = (int(newL) - int(newE)) / 100
     # round upwards
