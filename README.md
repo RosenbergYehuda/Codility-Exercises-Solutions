@@ -114,7 +114,9 @@
 <!-- Data Structures -->
 ## Data Structures
 
-- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Data%20Structures/arrListLen.cpp">arrListLen</a>
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Data%20Structures/arrListLen.cpp">arrListLen.cpp</a>
+
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Data%20Structures/arr_list_len.py">arr_list_len.py</a>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
