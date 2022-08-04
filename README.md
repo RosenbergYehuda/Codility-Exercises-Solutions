@@ -74,7 +74,7 @@
 
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/str_symmetry_point.py">str_symmetry_point.py</a>
 
-- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/treeHeight.cpp">treeHeight</a>
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/treeHeight.cpp">treeHeight.cpp</a>
 
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Algorithmic%20skills/tree_height.py">tree_height.py</a>
 
