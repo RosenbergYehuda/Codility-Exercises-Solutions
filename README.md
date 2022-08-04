@@ -96,9 +96,9 @@
 <!-- Coding skills -->
 ## Coding skills 
 
-- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/parityDegree.cpp">parityDegree</a>
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/parityDegree.cpp">parityDegree.cpp</a>
 
-- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/parity_degree.py">parity_degree</a>
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/parity_degree.py">parity_degree.py</a>
 
 
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/parkBill.cpp">parkBill.cpp</a>
