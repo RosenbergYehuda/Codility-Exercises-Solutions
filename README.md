@@ -105,6 +105,8 @@
 
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/park_bill.py">park_bill.py</a>
 
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/three_letters.py">three_letters.py</a>
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
