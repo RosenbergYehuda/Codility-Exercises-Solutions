@@ -23,7 +23,7 @@
   <p align="center">
     Solutions for Codility Exercises problems written in CPP and Python.
     <br />
-     Note that most of the solutions differ from each other not only by the language, but by the algorithm as well.
+     Note that most of the solutions differ from each other not only by the language, but by the algorithm or implementation as well.
     <br />
     All of the solutions were submitted and scored 100.
     <br />
@@ -104,6 +104,8 @@
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/parkBill.cpp">parkBill.cpp</a>
 
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/park_bill.py">park_bill.py</a>
+
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/threeletters.cpp">threeLetters.cpp</a>
 
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/three_letters.py">three_letters.py</a>
 
