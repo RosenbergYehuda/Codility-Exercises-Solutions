@@ -105,7 +105,7 @@
 
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/park_bill.py">park_bill.py</a>
 
-- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/threeletters.cpp">threeLetters.cpp</a>
+- <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/threeLetters.cpp">threeLetters.cpp</a>
 
 - <a href="https://github.com/RosenbergYehuda/Codility-Exercises-Solutions/blob/main/Coding%20skills/three_letters.py">three_letters.py</a>
 
